@@ -1,108 +1,139 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
-Welcome USER_NAME,
-
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
-
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
-
-## Gitpod Reminders
-
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
-
 `python3 -m http.server`
 
-A blue button should appear to click: _Make Public_,
+# Human Sightings Milestone Project for Code Institute
 
-Another blue button should appear to click: _Open Browser_.
+(aka my first ever website!)
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+So first of all I would like to point a finger to my file structure as this is the first thing I will be creating and it's a little unusual so will explain why now.
 
-A blue button should appear to click: _Make Public_,
+## How it all started
 
-Another blue button should appear to click: _Open Browser_.
+So my wife and I have a friend called Evie (they/them) and they have a website and a small business the website was a simple template downloaded from a site that allowed them to create a basic website but as you'll see the website doesn't do it's content justice. Their comics are all about hidden meanings and deep feelings but put in a way thats simple to understand and easy to grasp often quite comical. This kind of whimsical feel really isn't represented by their site as it stands so thought it would be a really good use of my Milestone Project to create something awesome for them that they will use. It also allows me to revisit it in the future and build upon it as I learn new skills allowing me to create a fully fledged website with lot's of functions. 
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## The plan
 
-To log into the Heroku toolbelt CLI:
+### how will this work in order for me to use this as my milestone project?
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+So the way it's working out is I am going to be the website designer! I'm going to treat it as if I am offering them a website design service.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+### Step 1 - Initial sketches
 
-------
+I will send them an intial concept (on paper) asking about goals, ideas and wants from the new site. 
 
-## Release History
+### Step 2 - Initial concept
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+I will then take it to the next step using adobe illustrator to put more detail behind the initial concept to gage the reaction
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+### Step 3 - Make it... yours!
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+If all goes well and the design is accepted I will then go to the flair stage where I ask them if they are able to do optional extras to improve the site. These would be things I would ask them to provide mostly optional that would give their website a real custom feel that only something they created could give. There's very little value in me trying to mimic what Evie can do mainly because they are actually an artist and I am only in the early stages of graphic design. 
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+### Step 4 - Make it real-ish
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+I will also create a wireframe fully interactable using adobe XD which they can comment on and discuss what they like and don't like this will most likely have temporary images I have created to give an idea of the final site rather than actual images as I will ikely not have them at this point.
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+### Step 5 - Permission
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+If they are happy with everything so far I will then request the images that I would need to create the site. This is NOT me asking for permission to distribute and would make it very clear these will be used solely with intent on creating a site that is custom for them to use and edit in the future. 
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+### Step 6 - Concrete foundations
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+Next Is development I would start by creating a basic file structure and each of the pages. I would also start creating a barebones version of the site with nothing on it other than empty boxes to show content placement and await any custom images from the artist.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+### Step 7 - Level up!
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+Once I have gained the custom illustrations I would then start to put them in place to start adding the designs to the website.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+### Step 8 - Alpha 
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+Once I have created the site it would then go into an alpha stage where I do everything I can to break it. If I succeed then I've failed discretely so that's a win for me as only me will know and I will take it to the grave. If I miss something that is where it becomes a true failure.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+### Step 9 - Bug splat 
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+Get those bugs. Yes all of them. Every single one. SPLAT!
 
-------
+### step 10 - beta 
 
-## FAQ about the uptime script
+This is when I release it to Evie to play around with give them a lesson on how to change and update the site and let her test it out herself with a shareable link to share with whoever she likes in order to test it. 
 
-**Why have you added this script?**
+### Step 11 - Submission
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+This is simple I send it over to YOU yeah you the person reading this I dedicated a whole step to just you.
 
-**How will this affect me?**
+### Step 12 - Top marks
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+Yeah I had to outsource for this part. Going to ask you to help me out here if you're up for it! What do you think? I hope you like it! tried my best to keep these notes interesting isn't it the worst when it's all straight facts and boring.
+ "who's gonna read a readme if the readme tells everyone who reads it that it doesnt want to be read." - red dit
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+## Documenting the creation
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+### Step 1 - Initial sketches
 
-**So….?**
+These were my intial sketches
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+<img alt="Image of initial design sketches" src="assets/images/readme-images/initial-design-sketches.jpg" width=300px/>
 
-**Can I opt out?**
+Evie replied saying that they really liked the thought of the moons being the buttons to navigate and there being links to actual products from her website.
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+### Step 2 - Initial concept
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+So I doubled down on the idea and created a conecpt this is what they looked like
 
-**Anything more?**
+<img alt="image of initial concepts created on adobe illustrator for the desktop version of the site" src="assets/images/readme-images/basic-design-desktop.jpg" width=300px/>
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+#### Desktop version
 
----
+<img alt="image of initial concepts created on adobe illustrator for the mobile version of the site" src="assets/images/readme-images/basic-design-mobile.jpg" width=300px/>
 
-Happy coding!
+#### Mobile version
+
+So you might notice here a few boxes seem to leave the page early on after my sketches I realised implementing a background image the way I am would be very difficult due to the sheer length of the mobile version. So using a vertical scroll section for the products and comics it allows me to keep the website at a certain length allowing for a much more efficient background usage.
+
+### What evie thought
+
+Evie really liked it and hinted towards being able to create starry background very quickly and would love to create the moons so I sent her the following image so she could edit it. I sent it as a .psd file so they could edit it using layers allowing them to toggle the object in and out and not have to draw ontop. You'll notice a light coloured line here this is my indicating what part of the website will be visible on the mobile version of the site so the page doesn't have to swap images instead it will zoom into a section of the background image when device it is displayed on gets too small.
+
+<img alt="image of initial concepts created on adobe illustrator for the mobile version of the site" src="assets/images/readme-images/file-sent-to-evie.jpg" width=300px/>
+
+### Step 3 - Make it... yours!
+
+Here is when I asked Evie if they would like to create images so gave a few options due to the nature of her previous requests to create her own background and navigation items these were mandatory
+moons
+background 
+the next few were optional
+more alien - an alien that holds a sign saying more the sign would be clickable/tappable and take the person to the corresponding link.
+footer alien - an alien that sits right at the bottom of the site with a thumbs up to encourage checking social links.
+various aliens inbetween sections - these will be funny illustrations of aliens in rockets or just stars or planets in the background image.
+a square border image for products and comics - this is just to go round the thumbnail images of the products and comics on the homepage to add a bit of custom flair.
+
+### Step 4 - Make it real-ish
+
+This was fun!
+I've added a link to the actual wireframe here the site only had two comic pages as it was all I needed to show it's basic functions the actual site will have many more. (please don't comment if the option is available)
+https://xd.adobe.com/view/ee71d7c4-772d-4a0b-b349-adecd6618a67-bb22/
+
+If either someone unauthorised comments or the link expires I've also added each page below
+<img alt="image showing wireframe of the desktop version of the home page" src="assets/images/readme-images/wf-dktp-home.png" width=300px/>
+<img alt="image showing wireframe of the desktop version of the comics page" src="assets/images/readme-images/wf-dktp-comics.png" width=300px/>
+<img alt="image showing wireframe of the desktop version of the shop page" src="assets/images/readme-images/wf-dktp-shop.png" width=300px/>
+
+<img alt="image showing wireframe of the desktop version of the first comic page" src="assets/images/readme-images/wf-dktp-comic-1.png" width=300px/>
+<img alt="image showing wireframe of the desktop version of the second comic page" src="assets/images/readme-images/wf-dktp-comic-2.png" width=300px/>
+
+##### desktop wireframe
+
+<img alt="image showing wireframe of the mobile version of the home page" src="assets/images/readme-images/wf-mob-home.png" width=200px/>
+<img alt="image showing wireframe of the mobile version of the comics page" src="assets/images/readme-images/wf-mob-comics.png" width=200px/>
+<img alt="image showing wireframe of the mobile version of the shop page" src="assets/images/readme-images/wf-mob-shop.png" width=200px/>
+
+<img alt="image showing wireframe of the mobile version of the first comic page" src="assets/images/readme-images/wf-mob-comic-1.png" width=200px/>
+<img alt="image showing wireframe of the mobile version of the second comic page" src="assets/images/readme-images/wf-mob-comic-2.png" width=200px/>
+
+##### mobile wireframe 
+
+Evie 
+
+## the method behind the madness
+
+In the images section so you'll see I have sub folders with comic-1,comic-2 etc. and you'll see some empty folders with the names of the comics with nothing in them so these are here temporarily until I have finished the comic pages just so I know what each comic is called as you can tell I have names like comic 1 comic 2 comic 3 and this is simply due to being lazy! They say the best coders are lazy coders right! so essentially I have to create the comic with all it's links to the images once. Then when I'm ready to create a new comic page I then simply copy and paste change comic 1 to comic 2 on the links and slide-1, slide-2, slide-3, and slide-4 all just slip into place where they are supposed to go.
+
