@@ -155,10 +155,14 @@ This is where the development diary starts see below 08/11/2021 -
 
 
 
+# Dev diary
 
+## 08/11/2021
 
-08/11/2021
+### Goal
 
 Today my goal is to set up the file structure and start doing the header of the page.
 
-actual progress completed the header added the background and created all nav elements and linked them to the correct pages 
+### progress 
+
+actual progress completed the header added the background and created all nav elements and linked them to the correct pages also made the header completely responive over all device sizes and in-between sizes.
