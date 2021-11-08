@@ -87,7 +87,7 @@ So I doubled down on the idea and created a conecpt this is what they looked lik
 
 #### Mobile version
 
-So you might notice here a few boxes seem to leave the page early on after my sketches I realised implementing a background image the way I am would be very difficult due to the sheer length of the mobile version. So using a vertical scroll section for the products and comics it allows me to keep the website at a certain length allowing for a much more efficient background usage.
+So you might notice here a few boxes seem to leave the page, early on after my sketches I realised implementing a background image the way I am would be very difficult due to the sheer length of the mobile version. So using a horizontal scroll section for the products and comics it allows me to keep the website at a certain length allowing for a much more efficient background usage.
 
 ### What evie thought
 
