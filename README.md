@@ -151,10 +151,6 @@ This is where the development diary starts see below 08/11/2021 -
 
 ### Step 7 - Level up!
 
-
-
-
-
 # Dev diary
 
 ## 08/11/2021
@@ -163,6 +159,14 @@ This is where the development diary starts see below 08/11/2021 -
 
 Today my goal is to set up the file structure and start doing the header of the page.
 
-### progress 
+### progress made
 
 actual progress completed the header added the background and created all nav elements and linked them to the correct pages also made the header completely responive over all device sizes and in-between sizes.
+
+## 09/11/2021
+
+### Goal 
+
+Today my goal is to have a meeting with my mentor and go through some tips to hopefully get the highest grade I can also to show the progress I have made so far and my website plans. 
+
+### Progress made
