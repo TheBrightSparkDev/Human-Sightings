@@ -1,0 +1,41 @@
+/* fonts 
+font-family: 'Architects Daughter', cursive;
+font-family: 'Montserrat', sans-serif;
+*/
+
+
+/* apply to all */
+body{
+    margin:0px;
+    padding:0px;
+}
+/* main bg */
+body{
+background-image:url(/assets/images/site-images/background.png);
+}
+/* logo styling */
+.logo-container{
+    margin-top:44px;
+    margin-left:61px;
+    float:left;
+    position:relative;    
+}
+.logo-text{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:300;
+    font-size:45px;
+    color: #fafafa;
+    position:absolute;
+    top:-77px;
+    left:34px;
+}
+/* nav styling */
+.nav-container{
+    float:right;
+}
+.nav-links{
+    display:inline; 
+}
+.nav-links a{
+    text-decoration:none;
+}

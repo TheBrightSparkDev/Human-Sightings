@@ -141,3 +141,14 @@ Evie
 
 In the images section so you'll see I have sub folders with comic-1,comic-2 etc. and you'll see some empty folders with the names of the comics with nothing in them so these are here temporarily until I have finished the comic pages just so I know what each comic is called as you can tell I have names like comic 1 comic 2 comic 3 and this is simply due to being lazy! They say the best coders are lazy coders right! so essentially I have to create the comic with all it's links to the images once. Then when I'm ready to create a new comic page I then simply copy and paste change comic 1 to comic 2 on the links and slide-1, slide-2, slide-3, and slide-4 all just slip into place where they are supposed to go.
 
+### Step 5 - Permission
+
+Evie is happy with the designs and is happy for me to continue to the development stage.
+
+### Step 6 - Concrete foundations
+
+This is where the development diary starts 
+
+08/11/2021
+
+Today my goal is to set up the file structure and start doing the header of the page.
