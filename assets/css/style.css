@@ -16,6 +16,9 @@ body{
 /* main bg */
 body{
 background-image:url(/assets/images/site-images/background.png);
+background-repeat:no-repeat;
+background-color:#000;
+background-size:cover;
 }
 /* section sizes */
 header {
@@ -53,7 +56,6 @@ header {
 .about-us-container{   
     width: 100%;
     height:900px;
-    border:solid 5px blue;
 }
 .content-placeholder{
     background-color:rgba(255,255,255,0.2);
@@ -79,7 +81,6 @@ header {
     .nav-container{
         width:50%;
         margin-right:25%;
-        border:solid 5px blue;
         margin-left:25%;
         height:300px;
 
@@ -155,6 +156,6 @@ header {
     }
     body{
         background-position-x:-210px;
-        background-position-y:-175px;
+        background-position-y:-100px;
     }
 }
