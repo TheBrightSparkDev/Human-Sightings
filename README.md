@@ -10,6 +10,10 @@ So first of all I would like to point a finger to my file structure as this is t
 
 So my wife and I have a friend called Evie (they/them) and they have a website and a small business the website was a simple template downloaded from a site that allowed them to create a basic website but as you'll see the website doesn't do it's content justice. Their comics are all about hidden meanings and deep feelings but put in a way thats simple to understand and easy to grasp often quite comical. This kind of whimsical feel really isn't represented by their site as it stands so thought it would be a really good use of my Milestone Project to create something awesome for them that they will use. It also allows me to revisit it in the future and build upon it as I learn new skills allowing me to create a fully fledged website with lot's of functions. 
 
+http://www.evelynbasch.co.uk/
+
+Evies current website
+
 ## The plan
 
 ### how will this work in order for me to use this as my milestone project?
