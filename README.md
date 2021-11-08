@@ -69,7 +69,7 @@ This is simple I send it over to YOU yeah you the person reading this I dedicate
 Yeah I had to outsource for this part. Going to ask you to help me out here if you're up for it! What do you think? I hope you like it! tried my best to keep these notes interesting isn't it the worst when it's all straight facts and boring.
  "who's gonna read a readme if the readme tells everyone who reads it that it doesnt want to be read." - red dit
 
-## Documenting the creation
+# Documenting The Creation
 
 ### Step 1 - Initial sketches
 
@@ -147,8 +147,18 @@ Evie is happy with the designs and is happy for me to continue to the developmen
 
 ### Step 6 - Concrete foundations
 
-This is where the development diary starts 
+This is where the development diary starts see below 08/11/2021 - 
+
+### Step 7 - Level up!
+
+
+
+
+
+
 
 08/11/2021
 
 Today my goal is to set up the file structure and start doing the header of the page.
+
+actual progress completed the header added the background and created all nav elements and linked them to the correct pages 
