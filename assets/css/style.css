@@ -35,7 +35,7 @@ header {
 .logo-text{
     font-family: 'Montserrat', sans-serif;
     font-weight:300;
-    font-size:45px;
+    font-size:2.8125em;
     color: #fafafa;
     position:absolute;
     top:-77px;
@@ -92,7 +92,7 @@ header {
         max-width:127.5px;
     }
 }
-@media screen and (max-width: 930px){
+@media screen and (max-width: 1024px){
     /* header */
     .logo-text{
         font-family: 'Montserrat', sans-serif;
@@ -104,7 +104,7 @@ header {
         left:10px; 
     }
 }
-@media screen and (max-width: 623px){
+@media screen and (max-width: 767px){
     /* header */
     .logo-container{
         width:75%;
@@ -112,14 +112,14 @@ header {
         margin-right:12.5%;
         margin-left:12.5%;
         margin-bottom:0;
-        height:150px;
+        max-height:20vh;
     }
     .nav-container{
         width:75%;
         height:300px;
         margin-right:12.5%;
         margin-left:12.5%;
-        margin-top:25px;
+        margin-top:50px;
         height:150px;
     }
     .logo-text{
@@ -132,11 +132,12 @@ header {
         left:10px; 
     }
 }
-@media screen and (max-width: 430px){
+@media screen and (max-width: 413px){
     /* header */
     .logo-container{
         width:100%;
         margin:0;
+        max-height:20vh;
     }
     .nav-container{
         width:100%;
@@ -151,7 +152,7 @@ header {
         font-size:30px;
         color: #fafafa;
         position:absolute;
-        top:-50px;
+        top:-40px;
         left:10px;
     }
     body{
