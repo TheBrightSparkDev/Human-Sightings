@@ -171,4 +171,13 @@ Today my goal is to have a meeting with my mentor and go through some tips to ho
 
 ### Progress made
 
-Today I actioned most of the mentors requests and also created the about-us section.
+Today I actioned most of the mentors requests and also created the about-us section and begun to create the comic section. Note to future self fix the flexbox items resizing when text added under them. (set a height of the divs maybe?)
+
+## 10/11/2021
+
+### Goal 
+
+Today the goal is to complete the comic section and create the comics page!
+
+### progress made
+
