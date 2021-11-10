@@ -170,3 +170,5 @@ actual progress completed the header added the background and created all nav el
 Today my goal is to have a meeting with my mentor and go through some tips to hopefully get the highest grade I can also to show the progress I have made so far and my website plans. 
 
 ### Progress made
+
+Today I actioned most of the mentors requests and also created the about-us section.
