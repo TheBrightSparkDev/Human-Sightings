@@ -1,14 +1,11 @@
 /* fonts 
-font-family: 'Architects Daughter', cursive;
+font-family: 'Architects Daughter', cursive; not used currently
 font-family: 'Montserrat', sans-serif;
 */
 /* temp borders for visualisation 
 border:solid 5px blue;
 */
-/* break points for future referance
-1294px device width is when the header breaks */
-
-/* apply to all */
+/* standard */
 body{
     margin:0px;
     padding:0px;
@@ -21,7 +18,45 @@ background-repeat:no-repeat;
 background-color:#000;
 background-size:cover;
 }
-/* header styling */
+/* styling */
+/* about us styling */
+.about-us-container{   
+    width: 100%;
+    margin-top:3vh;
+}
+.about-us-background{
+    background-color:rgba(255,255,255,0.2);
+    width:75%;
+    margin:auto;
+    padding-top:25px;
+    padding-bottom:25px;
+}
+/* text styling */
+h1, p{
+    font-family: 'Montserrat', sans-serif;
+    text-align:center;
+    color:#fff;
+}
+h1{
+    font-size:2rem;
+}
+p{
+    padding: 0 5px;
+    font-size:1rem;
+}
+/* comic section styling */
+.comics-background{
+    background-color:rgba(255,255,255,0.2);
+}
+/* product section styling */
+.product-background{
+    background-color:rgba(255,255,255,0.2);
+}
+.footer{
+    background-color:#555555;
+}
+/* How things are displayed eg. sizing, floats, centering etc. */
+/* header */
 header {
     display:flex;
     justify-content:space-between;
@@ -61,50 +96,30 @@ header {
 .nav-links a{
     text-decoration:none;
 }
-/* about us styling */
-.about-us-container{   
-    width: 100%;
-    margin-top:3vh;
-}
-.content-placeholder{
-    background-color:rgba(255,255,255,0.2);
-    width:75%;
-    margin:auto;
-    padding-top:25px;
-    padding-bottom:25px;
-}
-h1{
-    font-family: 'Montserrat', sans-serif;
-    text-align:center;
-    color:#fff;
-    font-size:2rem;
-}
-p{
-    font-family: 'Montserrat', sans-serif;
-    color:#fafafa;
-    text-align:center;
-    padding: 0 5px;
-    font-size:1rem;
-}
-/* comic section styling */
-.comics-background{
-    background-color:rgba(255,255,255,0.2);
+/* product and comic sections */
+.slider-background{
     padding-top:2vh;
     margin-top:5vh;
+    padding-bottom:2vh;
 }
-.comics-section{
+.slider-section{
     display:flex;
     flex-direction:row;
     align-items:center;
     overflow:auto;
     white-space:nowrap;
 }
-.comics-container{
+.header-spacing{
+    padding-top:20px;
+}
+.slider-container{
     padding:25px;
     width:30vw;
     margin-left:5vw;
+    min-height:260px;
+    min-width:200px;
 }
-.comics-container  img{
+.slider-container  img{
     width:100%;
     min-height:200px;
     max-height:560px;
@@ -112,29 +127,74 @@ p{
     max-width:560px;
     background-color:#000;
 }
-.comics-container a{
+.slider-container a{
     text-decoration:none;
 }
-.comics-container p{
+.slider-container p{
     margin:0;
     background-color:#000;
     min-height:60px;
+    max-width:550px;
 }
-.comics-container-more img{
+.slider-container-more img{
     width:100%;
     min-height:100px;
     min-width:100px;
-    max-height:100px;
-    max-width:100px;
-    background-color:#000;
+    max-height:150px;
+    max-width:150px;
     margin-right:5vw;
     margin-left:-25px;
 }
+.footer{
+    height:150px;
+}
+.social-links{
+    width:50%;
+    margin-left:25%;
+    text-align:center;
+    padding-top:30px;
+}
+a {
+    text-decoration:none;
+}
+a>i{
+    font-size:40px;
+    color:#fff;
+    margin:5%;
+}
+/* making things responsive */
 /* media querys */
 @media screen and (min-width:1440px){
     /*font fix for big screens*/
     html {
         font-size:25px;
+    }
+    /* slider fix for widescreens */
+    .slider-container-more img{
+        max-height:200px;
+        max-width:200px;    
+    }
+}
+@media screen and (min-width:2000px){
+    /*font fix for widescreens*/
+    html {
+        font-size:35px;
+    }
+    /* slider fix for widescreens */
+    .slider-container p{
+        margin:0;
+        background-color:#000;
+        min-height:100px;
+        max-width:590px;
+    }
+    .slider-container  img{
+        max-height:600px;
+        max-width:600px;       
+    }
+    .slider-container-more img{
+        max-height:250px;
+        max-width:250px;
+        margin-left:-28px;
     }
 }
 @media screen and (max-width: 768px){
@@ -173,10 +233,17 @@ p{
         width:100%;
         margin:0;
     }
+    /* background fix */
     body{
         background-position-x:-210px;
     }
-    .content-placeholder{
+    /* about-us */
+    .about-us-background{
         width:100%;
+    }
+    /* footer */
+    .social-links{
+        width:100%;
+        margin-left:0;
     }
 }

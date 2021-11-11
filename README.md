@@ -181,3 +181,15 @@ Today the goal is to complete the comic section and create the comics page!
 
 ### progress made
 
+Today I completed the base sturcture of the site all thats left is to update the links, update the images and to create the comic pages!
+
+## 11/11/2021
+
+### goal
+
+Today the goal is to update the images on the shop site
+
+### progress made
+
+
+
