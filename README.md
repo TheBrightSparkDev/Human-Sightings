@@ -195,9 +195,15 @@ Today the goal is to update the images on the shop site
 
 ## to do list
 
-correct the navbar on shop and comics page,
-links for comics to comic pages,  
-create comic page for each comic,
-update comic home section,
+comics-
+-correct the navbar on shop and comics page,
+-links for comics to comic pages,  
+-create comic page for each comic,
+-update comic home section,
+make page aria friendly-
+-font awesome links aria friendly
+-images aria friendly
+-comic pages aria friendly
+-make the page accessible via keyboard
 test,
 
