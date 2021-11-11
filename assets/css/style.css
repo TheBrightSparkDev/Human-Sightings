@@ -177,6 +177,9 @@ a>i{
     .slider-container{
         width:25vw;
     }
+    .slider-container-more img{
+        margin-right:0;        
+    }
 }
 @media screen and (min-width:2000px){
     /*font fix for widescreens*/

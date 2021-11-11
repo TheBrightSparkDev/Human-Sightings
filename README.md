@@ -187,7 +187,7 @@ Today I completed the base sturcture of the site all thats left is to update the
 
 ### goal
 
-Today the goal is to update the images on the shop site
+Today the goal is to update the images on the shop site and start creating the individual comic pages awaiting individual slides from artist.
 
 ### progress made
 
@@ -201,9 +201,9 @@ comics-
 -create comic page for each comic,
 -update comic home section,
 make page aria friendly-
--font awesome links aria friendly
--images aria friendly
--comic pages aria friendly
--make the page accessible via keyboard
+-font awesome links aria friendly,
+-images aria friendly,
+-comic pages aria friendly,
+-make the page accessible via keyboard,
 test,
 
