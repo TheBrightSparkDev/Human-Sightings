@@ -191,6 +191,16 @@ Today the goal is to update the images on the shop site and start creating the i
 
 ### progress made
 
+got in contact with the artist for the comics they have taken my email so awaiting the images now will start development of the bootstrap comic page tomorrow, Also shop page is complete 100% and tested.
+
+## 12/11/2021
+
+### goal 
+
+Today the goal is to complete the comic page using bootstrap grid system.
+
+### progress made
+
 
 
 ## to do list
