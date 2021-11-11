@@ -196,9 +196,8 @@ Today the goal is to update the images on the shop site
 ## to do list
 
 correct the navbar on shop and comics page,
-links for comics to comic pages, 
-complete shop links and images, 
-update shop home section more button link too!
+links for comics to comic pages,  
+create comic page for each comic,
 update comic home section,
 test,
 
