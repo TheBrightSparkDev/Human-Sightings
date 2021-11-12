@@ -32,7 +32,7 @@ background-size:cover;
     padding-bottom:25px;
 }
 /* text styling */
-h1, p{
+h1, p, h3{
     font-family: 'Montserrat', sans-serif;
     text-align:center;
     color:#fff;
@@ -43,6 +43,10 @@ h1{
 p{
     padding: 0 5px;
     font-size:1rem;
+}
+/* only used on individual comic pages */
+h3{
+    font-size:2rem;
 }
 /* comic section styling */
 .comics-background{
@@ -145,6 +149,7 @@ header {
     margin-right:5vw;
     margin-left:-25px;
 }
+/* footer */
 .footer{
     height:150px;
 }
@@ -161,6 +166,20 @@ a>i{
     font-size:40px;
     color:#fff;
     margin:5%;
+}
+/* comic pages */
+
+.fit{
+    width:100%;
+}
+.align-right{
+    text-align:right;
+}
+.align-bottom{
+    align-items:flex-end;
+}
+#comic-title{
+    background-color:#000;
 }
 /* making things responsive */
 /* media querys */

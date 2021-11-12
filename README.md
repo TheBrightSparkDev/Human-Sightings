@@ -217,3 +217,10 @@ make page aria friendly-
 -make the page accessible via keyboard,
 test,
 
+## things that helped me along the way
+
+https://getbootstrap.com/docs/5.1/layout/grid/
+
+used on the comic page 
+
+I was aware that not all the comics are the same shape so used it to create a few different kinds of comic templates so content becomes easy to put in once I've got it from the artist
