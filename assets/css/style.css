@@ -168,7 +168,9 @@ a>i{
     margin:5%;
 }
 /* comic pages */
-
+.spacer{
+    height:200px;
+}
 .fit{
     width:100%;
 }

@@ -11,65 +11,68 @@
     <title>Human Sightings</title>
 </head>
 <body>
+<!-- Using bootstrap and display attributes enabled me to have the display 
+chance drastically between devices it did however mean repeating the title 
+twice but the final effect is worth it in my opinion-->
     <div class="container-fluid">
-<!-- Using bootstrap and display attributes enabled me to have the display chance
-drastically between devices it did however mean repeating the title twice but the 
-final effect is worth it in my opinion-->
+        <div class="row d-none d-xl-block"><div class="col-12 spacer"></div></div>
         <div class="row">
           <div class="d-lg-none col-4"></div>
           <div class="col-4 col-lg-2" id="back-to-selection-button">
-            Back Button
+            <a href="comics.html">Back Button</a>
           </div>
           <div class="d-lg-none col-4"></div>
           <div class="d-lg-none col-12" id="comic-title">
             <h1>Aliens Build an Ikea Rocket</h3>
           </div>
-          <div class="col-12 col-lg-8 slide-size">
+          <div class="col-12 col-lg-8 col-xl-4">
             <img class="fit" src="assets/images/site-images/comic-1/slide-1.png" alt="">
           </div>
-          <div class="d-none d-lg-block col-lg-2" id="comic-title">
+          <div class="d-none d-lg-block col-lg-2 d-xl-none" id="comic-title">
             <h3>Aliens Build an Ikea Rocket</h3>
           </div>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-2"></div>
-          <div class="col-12 col-lg-8">
+<!-- These are on seperate lines on every screen size apart from XL 
+(laptop size) or bigger screens -->
+          <div class="col-lg-2 d-xl-none"></div>
+          <div class="col-12 col-lg-8 col-xl-4">
             <img class="fit" src="assets/images/site-images/comic-1/slide-2.png" alt="">
           </div>
-          <div class="col-2"></div>
+          <div class="d-none d-xl-block col-xl-2" id="comic-title">
+            <h3>Aliens Build an Ikea Rocket</h3>
+          </div>
+          <div class="col-2 d-xl-none"></div>
         </div>
-        <div class="row">
-          <div class="col-2"></div>
-          <div class="col-12 col-lg-8">
+
+        <div class="row align-bottom">
+            <div class="d-none d-xl-block col-xl-2">
+                Previous button
+          </div>
+          <div class="col-2 d-xl-none"></div>
+          <div class="col-12 col-lg-8 col-xl-4">
              <img class="fit" src="assets/images/site-images/comic-1/slide-3.png" alt="">
           </div>
-          <div class="col-2"></div>
-        </div>
-          
-        <div class="row align-bottom">
-          <div class="d-none d-lg-block col-lg-2">
+          <div class="col-2 d-xl-none"></div>
+<!-- These are on seperate lines on every screen size apart from XL 
+(laptop size) or bigger screens -->
+          <div class="d-none d-lg-block col-lg-2 d-xl-none">
               Previous button
           </div>
-          <div class="col-12 col-lg-8">
+          <div class="col-12 col-lg-8 col-xl-4">
             <img class="fit" src="assets/images/site-images/comic-1/slide-4.png" alt="">
           </div>
           <div class="d-none d-lg-block col-lg-2">
               Next button
           </div>
         </div>
-
+<!--only displays on mobile screens-->
         <div class="row d-lg-none">
           <div class="col-4">
-              Previous button
+            <a href="comic-2.html">Previous button</a>
           </div>
           <div class="col-4"></div>
           <div class="col-4 align-right">
-              Next button
+              <a href="comic-2.html">Next button</a>
           </div>
-        </div>
-        
-        
-    
+        </div>   
 </body>
 </html>
