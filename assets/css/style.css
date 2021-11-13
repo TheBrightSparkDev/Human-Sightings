@@ -169,7 +169,7 @@ a>i{
 }
 /* comic pages */
 .spacer{
-    height:200px;
+    height:10vh;
 }
 .fit{
     width:100%;
@@ -185,6 +185,13 @@ a>i{
 }
 /* making things responsive */
 /* media querys */
+/* query below is only for widescreens that are short on 4 slide comics as I'm a 
+perfectionist... */
+@media screen and (max-height:800px){
+    .spacer{
+        height:0;
+    }
+}
 @media screen and (min-width:1440px){
     /*font fix for big screens*/
     html {

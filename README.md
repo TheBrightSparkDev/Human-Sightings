@@ -209,6 +209,15 @@ comics-
 -correct the navbar on shop and comics page,
 -links for comics to comic pages,  
 -create comic page for each comic,
+comic-1
+comic-2
+comic-3
+comic-4
+comic-5
+comic-6
+comic-7
+comic-8
+comic-9
 -update comic home section,
 make page aria friendly-
 -font awesome links aria friendly,
