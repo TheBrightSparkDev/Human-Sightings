@@ -201,7 +201,9 @@ Today the goal is to complete the comic page using bootstrap grid system.
 
 ### progress made
 
+Created a 4 slide comic page thats fully working not added alt text yet though due to running out of time for the day will add as soon as possible
 
+## 13/11/2021
 
 ## to do list
 
@@ -209,7 +211,7 @@ comics-
 -correct the navbar on shop and comics page,
 -links for comics to comic pages,  
 -create comic page for each comic,
-comic-1
+comic-1 +
 comic-2
 comic-3
 comic-4
@@ -223,6 +225,15 @@ make page aria friendly-
 -font awesome links aria friendly,
 -images aria friendly,
 -comic pages aria friendly,
+comic-1 
+comic-2
+comic-3
+comic-4
+comic-5
+comic-6
+comic-7
+comic-8
+comic-9
 -make the page accessible via keyboard,
 test,
 
