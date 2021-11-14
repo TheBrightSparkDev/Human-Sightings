@@ -244,6 +244,22 @@ test,
 
 https://getbootstrap.com/docs/5.1/layout/grid/
 
-used on the comic page 
+used on the comic pages
 
 I was aware that not all the comics are the same shape so used it to create a few different kinds of comic templates so content becomes easy to put in once I've got it from the artist
+
+all code is my own I take pride in not using any external sites code and not copying and pasting anything.
+
+websites I used however along the way for reminders are:
+
+code institute - pretty much everything
+https://www.w3schools.com/html/html_responsive.asp - various searches this is one example
+google inspect - the flexbox toggler is amazing!
+
+## feats I'm proud of:
+
+#### Should work on every device small tiny large to massive I did my best so everyone can browse happily along the site and am pretty sure I succeeded
+
+#### bootstrap is only used on the comic pages reason being I wanted to have a challenge when building the actual site and create something truly origional and lightweight to avoid any sort of loading delay as there is alot of images.
+
+#### site is accessible to everyone! 
