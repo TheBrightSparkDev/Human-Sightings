@@ -29,7 +29,7 @@ background-size:cover;
     width:75%;
     margin:auto;
     padding-top:25px;
-    padding-bottom:25px;
+    padding-bottom:25px;    
 }
 /* text styling */
 h1, p, h3{
@@ -41,7 +41,7 @@ h1{
     font-size:2rem;
 }
 p{
-    padding: 0 5px;
+    padding: 0 25px;
     font-size:1rem;
 }
 /* only used on individual comic pages */
@@ -137,8 +137,9 @@ header {
 .slider-container p{
     margin:0;
     background-color:#000;
-    min-height:60px;
+    min-height:40px;
     max-width:550px;
+    padding:15px;
 }
 .slider-container-more img{
     width:100%;
@@ -151,19 +152,22 @@ header {
 }
 /* footer */
 .footer{
-    height:150px;
+    display:flex;
+    flex-direction:row;
+    flex-wrap:nowrap;
+    flex-direction:column;
+    justify-content:space-around;
 }
 .social-links{
-    width:50%;
-    margin-left:25%;
     text-align:center;
     padding-top:30px;
+    padding-bottom:30px;
 }
 a {
     text-decoration:none;
 }
 a>i{
-    font-size:40px;
+    font-size:2.5rem;
     color:#fff;
     margin:5%;
 }
@@ -237,7 +241,7 @@ perfectionist... */
     .slider-container p{
         margin:0;
         background-color:#000;
-        min-height:100px;
+        min-height:150px;
         max-width:590px;
     }
     .slider-container  img{
