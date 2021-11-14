@@ -205,6 +205,14 @@ Created a 4 slide comic page thats fully working not added alt text yet though d
 
 ## 13/11/2021
 
+### goal 
+
+get all images read and in a manageable file setting 
+
+### progress made 
+
+exactly that ^^
+
 ## to do list
 
 comics-
