@@ -220,25 +220,27 @@ get all images read and in a manageable file setting
 exactly that ^^
 
 ## to do list
-
-comics- 
--correct comic - 9
-
-make page aria friendly-
--font awesome links aria friendly,
--images aria friendly,
--comic pages aria friendly,
-comic-1 
-comic-2
-comic-3
-comic-4
-comic-5
-comic-6
-comic-7
-comic-8
-comic-9
--make the page accessible via keyboard,
-test,
+<ol>
+<li>comics-</li> 
+<li>-correct comic - 9</li>
+<li>make page aria friendly-</li>
+<li>-font awesome links aria friendly,</li>
+<li>-images aria friendly,</li>
+<li>-comic pages aria friendly,</li>
+<li>comic-1</li> 
+<li>comic-2</li> 
+<li>comic-3</li> 
+<li>comic-4</li> 
+<li>comic-5</li> 
+<li>comic-6</li> 
+<li>comic-7</li> 
+<li>comic-8</li> 
+<li>comic-9</li> 
+<li>-make the page accessible via keyboard,</li>
+<li>test,</li>
+<li>update readme with test notes</li>
+<li>update readme to tick all boxes when it comes to the assessment criteria</li>
+</ol>
 
 ## things that helped me along the way
 
@@ -262,4 +264,4 @@ google inspect - the flexbox toggler is amazing!
 
 #### bootstrap is only used on the comic pages reason being I wanted to have a challenge when building the actual site and create something truly origional and lightweight to avoid any sort of loading delay as there is alot of images.
 
-#### site is accessible to everyone! 
+#### site is accessible to everyone!
