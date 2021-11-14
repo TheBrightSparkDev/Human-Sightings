@@ -139,7 +139,7 @@ Evie
 
 ## the method behind the madness
 
-In the images section so you'll see I have sub folders with comic-1,comic-2 etc. and you'll see some empty folders with the names of the comics with nothing in them so these are here temporarily until I have finished the comic pages just so I know what each comic is called as you can tell I have names like comic 1 comic 2 comic 3 and this is simply due to being lazy! They say the best coders are lazy coders right! so essentially I have to create the comic with all it's links to the images once. Then when I'm ready to create a new comic page I then simply copy and paste change comic 1 to comic 2 on the links and slide-1, slide-2, slide-3, and slide-4 all just slip into place where they are supposed to go.
+in the images section you'll see comics they are named simply and in order nice and easy. so 1thumbnail correlates to all slides with 1 in front etc..
 
 ### Step 5 - Permission
 
@@ -150,6 +150,12 @@ Evie is happy with the designs and is happy for me to continue to the developmen
 This is where the development diary starts see below 08/11/2021 - 
 
 ### Step 7 - Level up!
+
+I recieved the artist images and am now adding them to the page!
+
+### Step 8 - Alpha stage
+
+
 
 # Dev diary
 
@@ -215,20 +221,9 @@ exactly that ^^
 
 ## to do list
 
-comics-
--correct the navbar on shop and comics page,
--links for comics to comic pages,  
--create comic page for each comic,
-comic-1 +
-comic-2
-comic-3
-comic-4
-comic-5
-comic-6
-comic-7
-comic-8
-comic-9
--update comic home section,
+comics- 
+-correct comic - 9
+
 make page aria friendly-
 -font awesome links aria friendly,
 -images aria friendly,
