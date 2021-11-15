@@ -208,11 +208,11 @@ a>i{
     width:100%;
 }
 .fit-low-res-9{
-    width:50%;  
+    width:80%;  
 }
 .slide9-3{
-    padding-right:10%;
-    padding-left:10%;
+    padding-right:8%;
+    padding-left:8%;
 }
 .slide9-2{
     padding-right:3%;
@@ -255,10 +255,6 @@ perfectionist... */
     }
     .slider-container-more img{
         margin-right:0;        
-    }
-    /* fix for big screens on comic-9*/
-    .fit-low-res-9{
-        width:100%;  
     }
 }
 @media screen and (min-width:2000px){
@@ -308,17 +304,9 @@ perfectionist... */
         width:70vw;
         margin-left:5vw;
     }
-    .slide9-3{
-        padding-right:0;
-        padding-left:0;
-    }
-    .slide9-2{
-        padding-right:0;
-        padding-left:0;
-    }
-    .slide9-1{
-        padding-right:0;
-        padding-left:0;
+    /* comic page 9 i believe */
+    .fit-low-res-9{
+        width:75%;  
     }
 }
 @media screen and (max-width: 480px){
@@ -343,5 +331,9 @@ perfectionist... */
     .social-links{
         width:100%;
         margin-left:0;
+    }
+    /* comic page 9 i believe */
+    .fit-low-res-9{
+        width:80%;  
     }
 }
