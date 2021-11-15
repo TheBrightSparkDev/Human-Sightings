@@ -224,13 +224,10 @@ exactly that ^^
 <li>comics-</li> 
 <li>-correct comic - 9</li>
 <li>make page aria friendly-</li>
+<li>make index,comics and shop aria friendly</li>
 <li>-font awesome links aria friendly,</li>
 <li>-images aria friendly,</li>
 <li>-comic pages aria friendly,</li>
-<li>comic-1</li> 
-<li>comic-2</li> 
-<li>comic-3</li> 
-<li>comic-4</li> 
 <li>comic-5</li> 
 <li>comic-6</li> 
 <li>comic-7</li> 
