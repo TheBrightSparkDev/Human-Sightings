@@ -150,6 +150,35 @@ header {
     margin-right:5vw;
     margin-left:-25px;
 }
+/* shop etsy section */
+.etsy-section{
+    width:100%;
+}
+.etsy-container{
+    width:30%;
+    margin:auto;
+    min-height:260px;
+    min-width:200px;
+    padding:25px;
+}
+.etsy-container  img{
+    width:100%;
+    min-height:200px;
+    max-height:560px;
+    min-width:200px;
+    max-width:560px;
+    background-color:#000;
+}
+.etsy-container a{
+    text-decoration:none;
+}
+.etsy-container p{
+    margin:0;
+    background-color:#000;
+    min-height:40px;
+    max-width:550px;
+    padding:15px;
+}
 /* footer */
 .footer{
     display:flex;
