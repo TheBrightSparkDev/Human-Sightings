@@ -93,6 +93,10 @@ If this section grows too long, you may want to split it off into a separate fil
 
 The individual comics page can be quite hard to implement AND make responsive so adding new pages may prove time consuing in the future I look to create a few templates to the artist can easily add her own in the future rather than contacting me to add them everytime. 
 
+Not so much a bug but a preference that is against the nrom when it comes to naming conventions. Using naming patterns like 1slide1 1slide2 1slide3 enables me to absolutely fly through adding extra content as long as I have a template for the layout of course. To create all the comic pages correctly all I have to do is update the first number so lets same I go from page 9 and add a page 10. I copy and paste the HTML file and all I need to do to add a new slide is to change four numbers and of course the previous/next links and the title.
+
+This allows for rapid deployment in the future. The system really is quite intuitive also due to each page being named comic-1 comic-2 so you know that 1slide1 1thumbnail are for comic-1 etc. 
+
 ## Deployment
 
 I was using github as the repository for the whole project so when I wanted to create a live page it was very easy to do.
