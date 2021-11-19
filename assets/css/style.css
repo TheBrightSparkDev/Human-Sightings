@@ -228,7 +228,7 @@ a>i{
 .align-bottom{
     align-items:flex-end;
 }
-#comic-title{
+.comic-title{
     background-color:#000;
 }
 /* making things responsive */
