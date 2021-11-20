@@ -1,4 +1,4 @@
-# Human Sightings
+# [Human Sightings](https://thebrightsparkdev.github.io/Human-Sightings/)
 
 Human Sightings is a site for people to come and take a look at some comics and potentially follow a link to purchase some products
 the site is also there to introduce poeple to the wonderful art of Evelyn Basch. It's designed to replace the previous site they had
@@ -13,35 +13,35 @@ and incorporate her style into everything, from headers to backgrounds it's all 
   - Featured on all the main pages the navigation bar is the first evelyn themed art you'll see three glorious moons with one of them being eclipsed slightly to show what page you are currently on.
   - This will allow users to go from page to page easily and know what page they are currently on
 
-![Nav Bar]
+![Nav Bar]()
 
 - __About us section__
 
   -  Since the page is all about introducing people to Evie this is where they can add information about themselves and who they are.
   -  Users will be brought in by this section and start to learn more about them 
 
-![About us]
+![About us]()
 
 - __Comics section__
 
   - This is the first opportunity for users to be introduced to the wonderful aliens that Evie is known for drawing. These will be introduced as clickable links to take users to the comic pages. There are in total 9 comics but only the first 3 are shown here with an option to view more which links to the comics page. 
   - Not only will the user start to learn about the characters and their deep emotional thoughts they will hopefully relate to some and later on that may drive them to buy some of the products that displays some of the funny or deep quotes that lie within the comics. 
 
-![Comics Section]
+![Comics Section]()
 
 - __Shop__
 
   - This is the first opportunity for users to be redirected to the etsy site where purchases can be made for the products hopefully they would've seen the comics first and known some backstories behind the products.
   - This section is where the user can go if they want to support the creator and purchase some items the creator hand- manufactures 
 
-![Shop]
+![Shop]()
 
 - __The Footer__ 
 
   - The footer contains links to many of the artists different social sites from facebook to instagram and even an etsy link too. 
   - The footer is a visual indicator to users that the page is finished and that they can click into any of the links to get to know the artist more.
 
-![Footer]
+![Footer]()
 
 - __Comics Page__
 
@@ -49,15 +49,32 @@ and incorporate her style into everything, from headers to backgrounds it's all 
   toughest subjects and whackiest scenarios
   - This section is all about users having a look around they are more than welcome to click on any comic and with the template its always going to be easy to add more. 
 
-![comics page]
+![comics page]()
 
-- __Shop__
+# Wireframes
+![interactive wireframe](https://xd.adobe.com/view/ee71d7c4-772d-4a0b-b349-adecd6618a67-bb22/?fbclid=IwAR0fa72zMo3DBl431YA561xTuZnfWh-Xeg256Z00F5y_93f-5IRJdl367yY)
+## Desktop
+![Homepage]()
+![comics]()
+![shop]()
+![comic pages]()
+## Mobile 
+![Homepage]()
+![comics]()
+![shop]()
+![comic pages]()
 
-  - This page is the end goal of the website to get users to fall in love with the comics and potentially follow one of the links to the 
-  various products on offer on Evies site with a little teaser to say there's plenty more where that came from at the end of the page. 
+# Technology used
+## Frameworks
+- I used github to store the repository and version management
+- I used gitpod for editing the code and for posting to github 
+## Libraries
+- I used [bootstrap](https://getbootstrap.com/) for the comic individual pages
+- I used [Font Awesome](https://fontawesome.com/) for the icons at the bottom of the index, comics, shop pages.
 
-![Shop]
+# user story 
 
+The users are people that simply want to look at comics that have a deeper meaning and to feel how the artist was feeling during the comics. The page is a rollercoaster of emotions from sadness to loneliness to sillyness and immaturity. It's somewhere people can go to know that they aren't alone in a way that they are not expecting. It's not there to directly support but the page is there to just slightly reinforce that it will be okay. It also gives the people an opportunity to support the artist to create more too with links to the etsy page.
 
 ### Features Left to Implement
 
