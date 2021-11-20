@@ -61,26 +61,36 @@ and incorporate her style into everything, from headers to backgrounds it's all 
 
 ### Features Left to Implement
 
-- The comics page is free to be expanded on whenever a new comic becomes available 
+- The comics page is free to be expanded on whenever a new comic becomes available.
 
-- The shop page is also expandable as there are always more products being added
+- The shop page is also expandable as there are always more products being added.
 
-- Potentially add additional pages for each product to give a better description into what they are
+- Potentially add additional pages for each product to give a better description into what they are.
 
-- Opportunity in the future to take purchases directly on the site to increase profits per item and avoid etsy cut
+- Opportunity in the future to take purchases directly on the site to increase profits per item and avoid etsy cut.
 
-- opportunity to also add a log when I'm able to use Javascript to make it easy for the creator to create additional pages
+- Opportunity to also add a log when I'm able to use Javascript to make it easy for the creator to create additional pages.
+
+- Make the page look good on a mobile in landscape mode.
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+- I have tested the website on every screen size from 250px to 2560px and the website is responsive and readable at all sizes. The way I did this was by using google chrome and using all the default devices and also sliding slowly the responsive section to and checking as I slide. 
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+- I did all the validation tests and encountered a few issues
+  - issue 1 was that I had used aria-described by instead of aria-label (this was an easy fix)
+  - issue 2 was that I had used aria-labels on my icons at the bottom of the page after a quick look into what I should ideally be using it was a quick and easy fix credit goes to [font awesome accessibility page](https://fontawesome.com/v4.7/accessibility/)
+  - issue 3 was that on the individual comic pages I had used an ID for the comic title (which I then copy and pasted 3 times per page to be displayed at different locations depending on the screen size) this casues another issue on the HTML validator again another easy fix changes the id to a class on style.css and all affected html files
+  - issue 4 was that on the individual comic pages I mustve not closed the uppermost DIV which I wasn't aware was an easy fix to close the div just above the body end tag.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+- I uploaded the link to my site to slack and asked for any advice from my fellow peers 
+  - I had one reply from SuzyBee_lead "Having a quick look on mobile at it looks great! Well done!"
+  - I also sent the link to the website over to my friends and they all loved it too asked them to try their best to break it none succeeded
+  although there were comment into the usability of the comics pages on a mobile phone in landscape mode. I agreed but am yet to implement a fix.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+- I did my best to break the site myself only succeded on sizes less than 250px wide which nowadays is unusual and not something I plan to fix or improve going forward.
 
+- I went on my mobile and used my screen reader software to test if it works and the whole website has detailed descriptions for every single image and text also reads out well so can confirm everything is accessible to the visually impared. 
 
 ### Validator Testing 
 
@@ -96,6 +106,8 @@ The individual comics page can be quite hard to implement AND make responsive so
 Not so much a bug but a preference that is against the nrom when it comes to naming conventions. Using naming patterns like 1slide1 1slide2 1slide3 enables me to absolutely fly through adding extra content as long as I have a template for the layout of course. To create all the comic pages correctly all I have to do is update the first number so lets same I go from page 9 and add a page 10. I copy and paste the HTML file and all I need to do to add a new slide is to change four numbers and of course the previous/next links and the title.
 
 This allows for rapid deployment in the future. The system really is quite intuitive also due to each page being named comic-1 comic-2 so you know that 1slide1 1thumbnail are for comic-1 etc. 
+
+comic page doesnt look great on landscape mode on a mobile 
 
 ## Deployment
 
@@ -117,6 +129,7 @@ Below are the sources of all the media and content
 - The text for the about us section was from her origional site [origional site](http://www.evelynbasch.co.uk/)
 - Shop links are from etsy and so are the images (with artist permission of course) [Etsy page](https://www.etsy.com/uk/shop/HumanSightings)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- How to do aria-labels for font awesome icons [font awesome accessibility page](https://fontawesome.com/v4.7/accessibility/)
 - Bootstrap was used to create the comic pages although I should've used a custom grid with more columns for greater customisation. [bootstrap](https://getbootstrap.com/)
 
 ### Media
