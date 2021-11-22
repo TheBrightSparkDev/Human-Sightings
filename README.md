@@ -163,9 +163,18 @@ The users are people that simply want to look at comics that have a deeper meani
 
 - google lighthouse gave a few scores in the end:
 
- - Performance 84% This is due entirely to the images I have used I could've edited every single image and turned them into next gen-formats but I don't have that kind of time to dedicate to this project.
- - accessibily 100% This is something I hope all my websites will always say
- - best practices 73% 
+ - Performance 84%-99% 
+   - This is due entirely to the images I have used I could've edited every single image and turned them into next gen-formats but I don't have that kind of time to dedicate to this project.
+   - Google also hints at using preloading to fix this issue but the icons are in the footer so if it takes an extra 0.3s to load it's not essential for the first 0.3 seconds of browsing so theres no reason to delay loading the main content of the page for that in my opinion.
+ - accessibily 100% 
+   - This is something I hope all my websites will always say
+ - best practices 80% 
+   - Google states the site has a vulnerabilty to cross-site scripting (XSS) attacks I currently do not know how to implement a fix for this will read into it for future sights
+   - Issue logged in a panel seems to be about the loading of the fontawesome.css file I wasn't sure how to implement a fix for this and this project has run out of development time it doesn't affect usability at all so no percieved issues there.
+   - The other issues are due to the images not being perfect aspect ratio. This is a simple fix for the future when I revisit the page for now though the aspect ratio is off by a very small amount undetectable and doesnt look stretched so no time will be given to fix this right now.
+   - It also says about resolution being low on a few images again very easy fixes but like many of the other issues that google has found that don't necessarily take away from the user experience and lack of development time means that they will have to stay that way.
+  - SEO 100%
+   - Happy with this result.
 
 ### Validator Testing 
 
