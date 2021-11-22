@@ -1,264 +1,182 @@
-`python3 -m http.server`
+# [Human Sightings](https://thebrightsparkdev.github.io/Human-Sightings/)
 
-# Human Sightings Milestone Project for Code Institute
+Link to site [Human Sightings](https://thebrightsparkdev.github.io/Human-Sightings/)
 
-(aka my first ever website!)
+Human Sightings is a site for people to come and take a look at some comics and potentially follow a link to purchase some products
+the site is also there to introduce poeple to the wonderful art of Evelyn Basch. It's designed to replace the previous site they had
+and incorporate her style into everything, from headers to backgrounds it's all space themed and fun. Users of the site will already be fans of Evelyns or potential new fans.
 
-So first of all I would like to point a finger to my file structure as this is the first thing I will be creating and it's a little unusual so will explain why now.
+<img src="assets/images/readme-images/responsive-readme.png" alt= "image of the website on various devices to show responsiveness" width="100%">
 
-## How it all started
+desktop and background credit: [pixabay](https://pixabay.com/photos/apple-computer-desk-workspace-1868496/)
 
-So my wife and I have a friend called Evie (they/them) and they have a website and a small business the website was a simple template downloaded from a site that allowed them to create a basic website but as you'll see the website doesn't do it's content justice. Their comics are all about hidden meanings and deep feelings but put in a way thats simple to understand and easy to grasp often quite comical. This kind of whimsical feel really isn't represented by their site as it stands so thought it would be a really good use of my Milestone Project to create something awesome for them that they will use. It also allows me to revisit it in the future and build upon it as I learn new skills allowing me to create a fully fledged website with lot's of functions. 
+## Features 
 
-http://www.evelynbasch.co.uk/
+### The best bits
 
-Evies current website
+- __Navigation Bar__
 
-## The plan
+  - Featured on all the main pages the navigation bar is the first evelyn themed art you'll see three glorious moons with one of them being eclipsed slightly to show what page you are currently on.
+  - This will allow users to go from page to page easily and know what page they are currently on
 
-### how will this work in order for me to use this as my milestone project?
+![Nav Bar](assets/images/readme-images/nav-readme.PNG)
 
-So the way it's working out is I am going to be the website designer! I'm going to treat it as if I am offering them a website design service.
+- __About us section__
 
-### Step 1 - Initial sketches
+  -  Since the page is all about introducing people to Evie this is where they can add information about themselves and who they are.
+  -  Users will be brought in by this section and start to learn more about them 
 
-I will send them an intial concept (on paper) asking about goals, ideas and wants from the new site. 
+![About us](assets/images/readme-images/about-me-readme.PNG)
 
-### Step 2 - Initial concept
+- __Comics section__
 
-I will then take it to the next step using adobe illustrator to put more detail behind the initial concept to gage the reaction
+  - This is the first opportunity for users to be introduced to the wonderful aliens that Evie is known for drawing. These will be introduced as clickable links to take users to the comic pages. There are in total 9 comics but only the first 3 are shown here with an option to view more which links to the comics page. 
+  - Not only will the user start to learn about the characters and their deep emotional thoughts they will hopefully relate to some and later on that may drive them to buy some of the products that displays some of the funny or deep quotes that lie within the comics. 
 
-### Step 3 - Make it... yours!
+![Comics Section](assets/images/readme-images/comics-section-home-readme.PNG)
 
-If all goes well and the design is accepted I will then go to the flair stage where I ask them if they are able to do optional extras to improve the site. These would be things I would ask them to provide mostly optional that would give their website a real custom feel that only something they created could give. There's very little value in me trying to mimic what Evie can do mainly because they are actually an artist and I am only in the early stages of graphic design. 
+- __Shop__
 
-### Step 4 - Make it real-ish
+  - This is the first opportunity for users to be redirected to the etsy site where purchases can be made for the products hopefully they would've seen the comics first and known some backstories behind the products.
+  - This section is where the user can go if they want to support the creator and purchase some items the creator hand- manufactures 
 
-I will also create a wireframe fully interactable using adobe XD which they can comment on and discuss what they like and don't like this will most likely have temporary images I have created to give an idea of the final site rather than actual images as I will ikely not have them at this point.
+![Shop](assets/images/readme-images/shop-section-home-readme.PNG)
 
-### Step 5 - Permission
+- __The Footer__ 
 
-If they are happy with everything so far I will then request the images that I would need to create the site. This is NOT me asking for permission to distribute and would make it very clear these will be used solely with intent on creating a site that is custom for them to use and edit in the future. 
+  - The footer contains links to many of the artists different social sites from facebook to instagram and even an etsy link too. 
+  - The footer is a visual indicator to users that the page is finished and that they can click into any of the links to get to know the artist more.
 
-### Step 6 - Concrete foundations
+![Footer](assets/images/readme-images/footer-readme.PNG)
 
-Next Is development I would start by creating a basic file structure and each of the pages. I would also start creating a barebones version of the site with nothing on it other than empty boxes to show content placement and await any custom images from the artist.
+- __Comics Page__
 
-### Step 7 - Level up!
+  - The comics page is all about comics and meeting the various character and laughing or crying with them as they go through some of the
+  toughest subjects and whackiest scenarios
+  - This section is all about users having a look around they are more than welcome to click on any comic and with the template its always going to be easy to add more. 
 
-Once I have gained the custom illustrations I would then start to put them in place to start adding the designs to the website.
+![comics page](assets/images/readme-images/comics-page-readme.PNG)
 
-### Step 8 - Alpha 
+- __Shop Page__
+  
+  - The shop page is all about getting that click-through rate at this point the users would've fallen in love with the aliens and astronauts and are maybe thinking about potentially making a purchase to support the artist.
+  - This section is simply a place for users to browse product and click links into the Etsy page.
 
-Once I have created the site it would then go into an alpha stage where I do everything I can to break it. If I succeed then I've failed discretely so that's a win for me as only me will know and I will take it to the grave. If I miss something that is where it becomes a true failure.
+![Shop page](assets/images/readme-images/shop-page-readme.PNG)
 
-### Step 9 - Bug splat 
+# Wireframes
+### Initial sketches
+<img src="assets/images/readme-images/initial-design-sketches.jpg" alt="The initial sketches I made back when the project was in it's earliest stages" width="50%">
 
-Get those bugs. Yes all of them. Every single one. SPLAT!
+[interactive wireframe](https://xd.adobe.com/view/ee71d7c4-772d-4a0b-b349-adecd6618a67-bb22/?fbclid=IwAR0fa72zMo3DBl431YA561xTuZnfWh-Xeg256Z00F5y_93f-5IRJdl367yY)
 
-### step 10 - beta 
+To access the mobile version go to the homepage on the desktop scroll to the bottom and there's a button there saying mobile version do the same to go back to desktop version from mobile.
 
-This is when I release it to Evie to play around with give them a lesson on how to change and update the site and let her test it out herself with a shareable link to share with whoever she likes in order to test it. 
 
-### Step 11 - Submission
+## Desktop
+[Homepage](https://github.com/TheBrightSparkDev/Human-Sightings/blob/main/assets/images/readme-images/wf-dktp-home.png)
+[comics](https://github.com/TheBrightSparkDev/Human-Sightings/blob/main/assets/images/readme-images/wf-dktp-comics.png)
+[shop](https://github.com/TheBrightSparkDev/Human-Sightings/blob/main/assets/images/readme-images/wf-dktp-shop.png)
+[comic page](https://github.com/TheBrightSparkDev/Human-Sightings/blob/main/assets/images/readme-images/wf-dktp-comic-1.png)
+##### note to reader the links above are exactly the same as the live wireframe I strongly recommend you use the interactive wireframe instead.
 
-This is simple I send it over to YOU yeah you the person reading this I dedicated a whole step to just you.
+## Mobile 
+[Homepage](https://github.com/TheBrightSparkDev/Human-Sightings/blob/main/assets/images/readme-images/wf-mob-home.png)
+[comics](https://github.com/TheBrightSparkDev/Human-Sightings/blob/main/assets/images/readme-images/wf-mob-comics.png)
+[shop](https://github.com/TheBrightSparkDev/Human-Sightings/blob/main/assets/images/readme-images/wf-mob-shop.png)
+[comic page](https://github.com/TheBrightSparkDev/Human-Sightings/blob/main/assets/images/readme-images/wf-mob-comic-1.png)
+##### note to reader the links above are exactly the same as the live wireframe I strongly recommend you use the interactive wireframe instead.
 
-### Step 12 - Top marks
+# Technology used
+## Frameworks
+- I used github to store the repository and version management
+- I used gitpod for editing the code and for posting to github 
+## Libraries
+- I used [bootstrap](https://getbootstrap.com/) for the comic individual pages
+- I used [Font Awesome](https://fontawesome.com/) for the icons at the bottom of the index, comics, shop pages.
 
-Yeah I had to outsource for this part. Going to ask you to help me out here if you're up for it! What do you think? I hope you like it! tried my best to keep these notes interesting isn't it the worst when it's all straight facts and boring.
- "who's gonna read a readme if the readme tells everyone who reads it that it doesnt want to be read." - red dit
+# user story 
 
-# Documenting The Creation
+The users are people that simply want to look at comics that have a deeper meaning and to feel how the artist was feeling during the comics. The page is a rollercoaster of emotions from sadness to loneliness to sillyness and immaturity. It's somewhere people can go to know that they aren't alone in a way that they are not expecting. It's not there to directly support but the page is there to just slightly reinforce that it will be okay. It also gives the people an opportunity to support the artist to create more too with links to the etsy page.
 
-### Step 1 - Initial sketches
+### Features Left to Implement
 
-These were my intial sketches
+- The comics page is free to be expanded on whenever a new comic becomes available.
 
-<img alt="Image of initial design sketches" src="assets/images/readme-images/initial-design-sketches.jpg" width=300px/>
+- The shop page is also expandable as there are always more products being added.
 
-Evie replied saying that they really liked the thought of the moons being the buttons to navigate and there being links to actual products from her website.
+- Potentially add additional pages for each product to give a better description into what they are.
 
-### Step 2 - Initial concept
+- Opportunity in the future to take purchases directly on the site to increase profits per item and avoid etsy cut.
 
-So I doubled down on the idea and created a conecpt this is what they looked like
+- Opportunity to also add a log when I'm able to use Javascript to make it easy for the creator to create additional pages.
 
-<img alt="image of initial concepts created on adobe illustrator for the desktop version of the site" src="assets/images/readme-images/basic-design-desktop.jpg" width=300px/>
+- Make the page look good on a mobile in landscape mode.
 
-#### Desktop version
+## Testing 
 
-<img alt="image of initial concepts created on adobe illustrator for the mobile version of the site" src="assets/images/readme-images/basic-design-mobile.jpg" width=300px/>
+- I have tested the website on every screen size from 250px to 2560px and the website is responsive and readable at all sizes. The way I did this was by using google chrome and using all the default devices and also sliding slowly the responsive section to and checking as I slide. 
 
-#### Mobile version
+- I did all the validation tests and encountered a few issues
+  - issue 1 was that I had used aria-described by instead of aria-label (this was an easy fix)
+  - issue 2 was that I had used aria-labels on my icons at the bottom of the page after a quick look into what I should ideally be using it was a quick and easy fix credit goes to [font awesome accessibility page](https://fontawesome.com/v4.7/accessibility/)
+  - issue 3 was that on the individual comic pages I had used an ID for the comic title (which I then copy and pasted 3 times per page to be displayed at different locations depending on the screen size) this casues another issue on the HTML validator again another easy fix changes the id to a class on style.css and all affected html files
+  - issue 4 was that on the individual comic pages I mustve not closed the uppermost DIV which I wasn't aware was an easy fix to close the div just above the body end tag.
 
-So you might notice here a few boxes seem to leave the page, early on after my sketches I realised implementing a background image the way I am would be very difficult due to the sheer length of the mobile version. So using a horizontal scroll section for the products and comics it allows me to keep the website at a certain length allowing for a much more efficient background usage.
+- I uploaded the link to my site to slack and asked for any advice from my fellow peers 
+  - I had one reply from SuzyBee_lead "Having a quick look on mobile at it looks great! Well done!"
+  - I also sent the link to the website over to my friends and they all loved it too asked them to try their best to break it none succeeded
+  although there were comment into the usability of the comics pages on a mobile phone in landscape mode. I agreed but am yet to implement a fix.
 
-### What evie thought
+- I did my best to break the site myself only succeded on sizes less than 250px wide which nowadays is unusual and not something I plan to fix or improve going forward.
 
-Evie really liked it and hinted towards being able to create starry background very quickly and would love to create the moons so I sent her the following image so she could edit it. I sent it as a .psd file so they could edit it using layers allowing them to toggle the object in and out and not have to draw ontop. You'll notice a light coloured line here this is my indicating what part of the website will be visible on the mobile version of the site so the page doesn't have to swap images instead it will zoom into a section of the background image when device it is displayed on gets too small.
+- I went on my mobile and used my screen reader software to test if it works and the whole website has detailed descriptions for every single image and text also reads out well so can confirm everything is accessible to the visually impared. 
 
-<img alt="image of initial concepts created on adobe illustrator for the mobile version of the site" src="assets/images/readme-images/file-sent-to-evie.jpg" width=300px/>
+### Validator Testing 
 
-### Step 3 - Make it... yours!
+- HTML
+  - No errors were returned when using the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+- CSS
+  - No errors were found when using the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
-Here is when I asked Evie if they would like to create images so gave a few options due to the nature of her previous requests to create her own background and navigation items these were mandatory
-moons
-background 
-the next few were optional
-more alien - an alien that holds a sign saying more the sign would be clickable/tappable and take the person to the corresponding link.
-footer alien - an alien that sits right at the bottom of the site with a thumbs up to encourage checking social links.
-various aliens inbetween sections - these will be funny illustrations of aliens in rockets or just stars or planets in the background image.
-a square border image for products and comics - this is just to go round the thumbnail images of the products and comics on the homepage to add a bit of custom flair.
+### Unfixed Bugs
 
-### Step 4 - Make it real-ish
+The individual comics page can be quite hard to implement AND make responsive so adding new pages may prove time consuing in the future I look to create a few templates to the artist can easily add her own in the future rather than contacting me to add them everytime. 
 
-This was fun!
-I've added a link to the actual wireframe here the site only had two comic pages as it was all I needed to show it's basic functions the actual site will have many more. (please don't comment if the option is available)
-https://xd.adobe.com/view/ee71d7c4-772d-4a0b-b349-adecd6618a67-bb22/
+Not so much a bug but a preference that is against the nrom when it comes to naming conventions. Using naming patterns like 1slide1 1slide2 1slide3 enables me to absolutely fly through adding extra content as long as I have a template for the layout of course. To create all the comic pages correctly all I have to do is update the first number so lets same I go from page 9 and add a page 10. I copy and paste the HTML file and all I need to do to add a new slide is to change four numbers and of course the previous/next links and the title.
 
-If either someone unauthorised comments or the link expires I've also added each page below
-<img alt="image showing wireframe of the desktop version of the home page" src="assets/images/readme-images/wf-dktp-home.png" width=300px/>
-<img alt="image showing wireframe of the desktop version of the comics page" src="assets/images/readme-images/wf-dktp-comics.png" width=300px/>
-<img alt="image showing wireframe of the desktop version of the shop page" src="assets/images/readme-images/wf-dktp-shop.png" width=300px/>
+This allows for rapid deployment in the future. The system really is quite intuitive also due to each page being named comic-1 comic-2 so you know that 1slide1 1thumbnail are for comic-1 etc. 
 
-<img alt="image showing wireframe of the desktop version of the first comic page" src="assets/images/readme-images/wf-dktp-comic-1.png" width=300px/>
-<img alt="image showing wireframe of the desktop version of the second comic page" src="assets/images/readme-images/wf-dktp-comic-2.png" width=300px/>
+comic page doesnt look great on landscape mode on a mobile 
 
-##### desktop wireframe
+## Deployment
 
-<img alt="image showing wireframe of the mobile version of the home page" src="assets/images/readme-images/wf-mob-home.png" width=200px/>
-<img alt="image showing wireframe of the mobile version of the comics page" src="assets/images/readme-images/wf-mob-comics.png" width=200px/>
-<img alt="image showing wireframe of the mobile version of the shop page" src="assets/images/readme-images/wf-mob-shop.png" width=200px/>
+I was using github as the repository for the whole project so when I wanted to create a live page it was very easy to do.
 
-<img alt="image showing wireframe of the mobile version of the first comic page" src="assets/images/readme-images/wf-mob-comic-1.png" width=200px/>
-<img alt="image showing wireframe of the mobile version of the second comic page" src="assets/images/readme-images/wf-mob-comic-2.png" width=200px/>
+I did however have trouble with relative vs absolute links as I found I had accidentally used alot of absolute which meant the page was broken when uploaded. Was a simple fix!
 
-##### mobile wireframe 
+- The site was deployed to GitHub pages. 
 
-Evie 
+The live link can be found here - [Human Sightings](https://thebrightsparkdev.github.io/Human-Sightings/)
 
-## the method behind the madness
 
-in the images section you'll see comics they are named simply and in order nice and easy. so 1thumbnail correlates to all slides with 1 in front etc..
+## Credits 
 
-### Step 5 - Permission
+Below are the sources of all the media and content 
 
-Evie is happy with the designs and is happy for me to continue to the development stage.
+### Content 
 
-### Step 6 - Concrete foundations
+- The text for the about us section was from her origional site [origional site](http://www.evelynbasch.co.uk/)
+- Shop links are from etsy and so are the images (with artist permission of course) [Etsy page](https://www.etsy.com/uk/shop/HumanSightings)
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- How to do aria-labels for font awesome icons [font awesome accessibility page](https://fontawesome.com/v4.7/accessibility/)
+- Bootstrap was used to create the comic pages although I should've used a custom grid with more columns for greater customisation. [bootstrap](https://getbootstrap.com/)
 
-This is where the development diary starts see below 08/11/2021 - 
+### Media
 
-### Step 7 - Level up!
-
-I recieved the artist images and am now adding them to the page!
-
-### Step 8 - Alpha stage
-
-
-
-# Dev diary
-
-## 08/11/2021
-
-### Goal
-
-Today my goal is to set up the file structure and start doing the header of the page.
-
-### progress made
-
-actual progress completed the header added the background and created all nav elements and linked them to the correct pages also made the header completely responive over all device sizes and in-between sizes.
-
-## 09/11/2021
-
-### Goal 
-
-Today my goal is to have a meeting with my mentor and go through some tips to hopefully get the highest grade I can also to show the progress I have made so far and my website plans. 
-
-### Progress made
-
-Today I actioned most of the mentors requests and also created the about-us section and begun to create the comic section. Note to future self fix the flexbox items resizing when text added under them. (set a height of the divs maybe?)
-
-## 10/11/2021
-
-### Goal 
-
-Today the goal is to complete the comic section and create the comics page!
-
-### progress made
-
-Today I completed the base sturcture of the site all thats left is to update the links, update the images and to create the comic pages!
-
-## 11/11/2021
-
-### goal
-
-Today the goal is to update the images on the shop site and start creating the individual comic pages awaiting individual slides from artist.
-
-### progress made
-
-got in contact with the artist for the comics they have taken my email so awaiting the images now will start development of the bootstrap comic page tomorrow, Also shop page is complete 100% and tested.
-
-## 12/11/2021
-
-### goal 
-
-Today the goal is to complete the comic page using bootstrap grid system.
-
-### progress made
-
-Created a 4 slide comic page thats fully working not added alt text yet though due to running out of time for the day will add as soon as possible
-
-## 13/11/2021
-
-### goal 
-
-get all images read and in a manageable file setting 
-
-### progress made 
-
-exactly that ^^
-
-## to do list
-<ol>
-<li>comics-</li> 
-<li>-correct comic - 9</li>
-<li>make page aria friendly-</li>
-<li>make index,comics and shop aria friendly</li>
-<li>-font awesome links aria friendly,</li>
-<li>-images aria friendly,</li>
-<li>-comic pages aria friendly,</li>
-<li>comic-5</li> 
-<li>comic-6</li> 
-<li>comic-7</li> 
-<li>comic-8</li> 
-<li>comic-9</li> 
-<li>-make the page accessible via keyboard,</li>
-<li>test,</li>
-<li>update readme with test notes</li>
-<li>update readme to tick all boxes when it comes to the assessment criteria</li>
-</ol>
-
-## things that helped me along the way
-
-https://getbootstrap.com/docs/5.1/layout/grid/
-
-used on the comic pages
-
-I was aware that not all the comics are the same shape so used it to create a few different kinds of comic templates so content becomes easy to put in once I've got it from the artist
-
-all code is my own I take pride in not using any external sites code and not copying and pasting anything.
-
-websites I used however along the way for reminders are:
-
-code institute - pretty much everything
-https://www.w3schools.com/html/html_responsive.asp - various searches this is one example
-google inspect - the flexbox toggler is amazing!
-
-## feats I'm proud of:
-
-#### Should work on every device small tiny large to massive I did my best so everyone can browse happily along the site and am pretty sure I succeeded
-
-#### bootstrap is only used on the comic pages reason being I wanted to have a challenge when building the actual site and create something truly origional and lightweight to avoid any sort of loading delay as there is alot of images.
-
-#### site is accessible to everyone!
+- The photos used were either from my own illustrations (background and moons) or from Evie's many comics
+- Shop links are from etsy and so are the images (with artist permission of course) [Etsy page](https://www.etsy.com/uk/shop/HumanSightings)
+ 
+ # More coming soon! 
+ 
+ ### Follow me on github to stay upto date and message me for project ideas/pitches always ready to work with someone.
