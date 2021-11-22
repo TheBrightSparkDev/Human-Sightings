@@ -1,8 +1,14 @@
 # [Human Sightings](https://thebrightsparkdev.github.io/Human-Sightings/)
 
+Link to site [Human Sightings](https://thebrightsparkdev.github.io/Human-Sightings/)
+
 Human Sightings is a site for people to come and take a look at some comics and potentially follow a link to purchase some products
 the site is also there to introduce poeple to the wonderful art of Evelyn Basch. It's designed to replace the previous site they had
 and incorporate her style into everything, from headers to backgrounds it's all space themed and fun. Users of the site will already be fans of Evelyns or potential new fans.
+
+<img src="assets/images/readme-images/responsive-readme.png" alt= "image of the website on various devices to show responsiveness" width="100%">
+
+desktop and background credit: [pixabay](https://pixabay.com/photos/apple-computer-desk-workspace-1868496/)
 
 ## Features 
 
@@ -13,35 +19,35 @@ and incorporate her style into everything, from headers to backgrounds it's all 
   - Featured on all the main pages the navigation bar is the first evelyn themed art you'll see three glorious moons with one of them being eclipsed slightly to show what page you are currently on.
   - This will allow users to go from page to page easily and know what page they are currently on
 
-![Nav Bar]()
+![Nav Bar](assets/images/readme-images/nav-readme.PNG)
 
 - __About us section__
 
   -  Since the page is all about introducing people to Evie this is where they can add information about themselves and who they are.
   -  Users will be brought in by this section and start to learn more about them 
 
-![About us]()
+![About us](assets/images/readme-images/about-me-readme.PNG)
 
 - __Comics section__
 
   - This is the first opportunity for users to be introduced to the wonderful aliens that Evie is known for drawing. These will be introduced as clickable links to take users to the comic pages. There are in total 9 comics but only the first 3 are shown here with an option to view more which links to the comics page. 
   - Not only will the user start to learn about the characters and their deep emotional thoughts they will hopefully relate to some and later on that may drive them to buy some of the products that displays some of the funny or deep quotes that lie within the comics. 
 
-![Comics Section]()
+![Comics Section](assets/images/readme-images/comics-section-home-readme.PNG)
 
 - __Shop__
 
   - This is the first opportunity for users to be redirected to the etsy site where purchases can be made for the products hopefully they would've seen the comics first and known some backstories behind the products.
   - This section is where the user can go if they want to support the creator and purchase some items the creator hand- manufactures 
 
-![Shop]()
+![Shop](assets/images/readme-images/shop-section-home-readme.PNG)
 
 - __The Footer__ 
 
   - The footer contains links to many of the artists different social sites from facebook to instagram and even an etsy link too. 
   - The footer is a visual indicator to users that the page is finished and that they can click into any of the links to get to know the artist more.
 
-![Footer]()
+![Footer](assets/images/readme-images/footer-readme.PNG)
 
 - __Comics Page__
 
@@ -49,20 +55,37 @@ and incorporate her style into everything, from headers to backgrounds it's all 
   toughest subjects and whackiest scenarios
   - This section is all about users having a look around they are more than welcome to click on any comic and with the template its always going to be easy to add more. 
 
-![comics page]()
+![comics page](assets/images/readme-images/comics-page-readme.PNG)
+
+- __Shop Page__
+  
+  - The shop page is all about getting that click-through rate at this point the users would've fallen in love with the aliens and astronauts and are maybe thinking about potentially making a purchase to support the artist.
+  - This section is simply a place for users to browse product and click links into the Etsy page.
+
+![Shop page](assets/images/readme-images/shop-page-readme.PNG)
 
 # Wireframes
-![interactive wireframe](https://xd.adobe.com/view/ee71d7c4-772d-4a0b-b349-adecd6618a67-bb22/?fbclid=IwAR0fa72zMo3DBl431YA561xTuZnfWh-Xeg256Z00F5y_93f-5IRJdl367yY)
+### Initial sketches
+<img src="assets/images/readme-images/initial-design-sketches.jpg" alt="The initial sketches I made back when the project was in it's earliest stages" width="50%">
+
+[interactive wireframe](https://xd.adobe.com/view/ee71d7c4-772d-4a0b-b349-adecd6618a67-bb22/?fbclid=IwAR0fa72zMo3DBl431YA561xTuZnfWh-Xeg256Z00F5y_93f-5IRJdl367yY)
+
+To access the mobile version go to the homepage on the desktop scroll to the bottom and there's a button there saying mobile version do the same to go back to desktop version from mobile.
+
+
 ## Desktop
-![Homepage]()
-![comics]()
-![shop]()
-![comic pages]()
+[Homepage](https://github.com/TheBrightSparkDev/Human-Sightings/blob/main/assets/images/readme-images/wf-dktp-home.png)
+[comics](https://github.com/TheBrightSparkDev/Human-Sightings/blob/main/assets/images/readme-images/wf-dktp-comics.png)
+[shop](https://github.com/TheBrightSparkDev/Human-Sightings/blob/main/assets/images/readme-images/wf-dktp-shop.png)
+[comic page](https://github.com/TheBrightSparkDev/Human-Sightings/blob/main/assets/images/readme-images/wf-dktp-comic-1.png)
+##### note to reader the links above are exactly the same as the live wireframe I strongly recommend you use the interactive wireframe instead.
+
 ## Mobile 
-![Homepage]()
-![comics]()
-![shop]()
-![comic pages]()
+[Homepage](https://github.com/TheBrightSparkDev/Human-Sightings/blob/main/assets/images/readme-images/wf-mob-home.png)
+[comics](https://github.com/TheBrightSparkDev/Human-Sightings/blob/main/assets/images/readme-images/wf-mob-comics.png)
+[shop](https://github.com/TheBrightSparkDev/Human-Sightings/blob/main/assets/images/readme-images/wf-mob-shop.png)
+[comic page](https://github.com/TheBrightSparkDev/Human-Sightings/blob/main/assets/images/readme-images/wf-mob-comic-1.png)
+##### note to reader the links above are exactly the same as the live wireframe I strongly recommend you use the interactive wireframe instead.
 
 # Technology used
 ## Frameworks
@@ -134,7 +157,7 @@ I did however have trouble with relative vs absolute links as I found I had acci
 
 - The site was deployed to GitHub pages. 
 
-The live link can be found here - https://thebrightsparkdev.github.io/Human-Sightings/
+The live link can be found here - [Human Sightings](https://thebrightsparkdev.github.io/Human-Sightings/)
 
 
 ## Credits 
@@ -154,3 +177,6 @@ Below are the sources of all the media and content
 - The photos used were either from my own illustrations (background and moons) or from Evie's many comics
 - Shop links are from etsy and so are the images (with artist permission of course) [Etsy page](https://www.etsy.com/uk/shop/HumanSightings)
  
+ # More coming soon! 
+ 
+ ### Follow me on github to stay upto date and message me for project ideas/pitches always ready to work with someone.
