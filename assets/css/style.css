@@ -13,7 +13,7 @@ body {
 
 /* main bg */
 body {
-    background-image: url(assets/images/site-images/background.png);
+    background-image: url(../images/site-images/background.png);
     background-repeat: no-repeat;
     background-color: #000;
     background-size: cover;
