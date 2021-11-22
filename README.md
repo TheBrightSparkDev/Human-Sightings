@@ -115,10 +115,34 @@ The users are people that simply want to look at comics that have a deeper meani
 
 ## Testing 
 
+### Issues during development 
+- Header not being responsive 
+  - Messaged on slack about using a div element instead of header before looking into flexbox.
+  - Found my answer on a website: [Flexbox How To](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  - Messaged to say I found my own answer all good to not waste anyones time.
+  - Fixed using flexbox instead of using widths was quite a quick fix in the end.
+
+- Was struggling to make the logo responsive initially 
+ - Issue I was having was that the text would not stay in the same place ontop of the logo no matter what I did and as the image got smaller the text wouldn;t look right so had to figure out how I was going to have the text be the right size on all screens.
+ - I fixed it by being lazy I added the text to the logo image and no the text resizes automatically as it is now literally part of the logo.
+
+ ![logo after fix](assets/images/site-images/dktp-logo.png)
+
+ - I later used this trick again with every moon link on the page
+ - No external resources were used to find this fix 
+ - Used Adobe photoshop to edit images
+
+- Having trouble implementing the horizontal scroll menu
+ - Read up on it here: [horizontal Scroll Menu](https://www.w3schools.com/howto/howto_css_menu_horizontal_scroll.asp)
+ - Fixed my issue implemented the correct code, code NOT copy and pasted.
+
+- Had to toggle between using a flexbox and horizontal scroll so had a quick reminder on how media queries worked info found here: [Media Queries How To](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+
 - I have tested the website on every screen size from 250px to 2560px and the website is responsive and readable at all sizes. The way I did this was by using google chrome and using all the default devices and also sliding slowly the responsive section to and checking as I slide. 
 
 - I did all the validation tests and encountered a few issues
-  - issue 1 was that I had used aria-described by instead of aria-label (this was an easy fix)
+  - issue 1 was that I had used aria-described by instead of aria-label (this was an easy fix just replaced every mention of describedby with label)
+    - Info on fix found here: [aria-label/labelledby](https://tink.uk/the-difference-between-aria-label-and-aria-labelledby/)
   - issue 2 was that I had used aria-labels on my icons at the bottom of the page after a quick look into what I should ideally be using it was a quick and easy fix credit goes to [font awesome accessibility page](https://fontawesome.com/v4.7/accessibility/)
   - issue 3 was that on the individual comic pages I had used an ID for the comic title (which I then copy and pasted 3 times per page to be displayed at different locations depending on the screen size) this casues another issue on the HTML validator again another easy fix changes the id to a class on style.css and all affected html files
   - issue 4 was that on the individual comic pages I mustve not closed the uppermost DIV which I wasn't aware was an easy fix to close the div just above the body end tag.
@@ -163,6 +187,15 @@ The live link can be found here - [Human Sightings](https://thebrightsparkdev.gi
 ## Credits 
 
 Below are the sources of all the media and content 
+
+### No parts of the code on this website are copy and pasted 
+
+ - If I was struggling with anything I would simply go to wesbite that I have linked below and read up on how to use the specific code and then I would simply use the code correctly. 
+ - all websites used are linked below:
+  - [Flexbox How To](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  - [aria-label/labelledby](https://tink.uk/the-difference-between-aria-label-and-aria-labelledby/)
+  - [Media Queries How To](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+  - [horizontal Scroll Menu](https://www.w3schools.com/howto/howto_css_menu_horizontal_scroll.asp)
 
 ### Content 
 
