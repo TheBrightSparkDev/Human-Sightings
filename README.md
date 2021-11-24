@@ -162,7 +162,7 @@ The users are people that simply want to look at comics that have a deeper meani
  - I also saw that google said background.png came back with a 404 error had a look into my css and it was an absolute link instead of relative so corrected the issue
  -  I also noticed font was coming back as error 400 so corrected code.
 
-- google lighthouse gave a few scores in the end:
+- google lighthouse gave a few scores in the end Mobile:
 
  - Performance 84%-99% 
    - This is due entirely to the images I have used I could've edited every single image and turned them into next gen-formats but I don't have that kind of time to dedicate to this project.
@@ -174,6 +174,22 @@ The users are people that simply want to look at comics that have a deeper meani
    - Issue logged in a panel seems to be about the loading of the fontawesome.css file I wasn't sure how to implement a fix for this and this project has run out of development time it doesn't affect usability at all so no percieved issues there.
    - The other issues are due to the images not being perfect aspect ratio. This is a simple fix for the future when I revisit the page for now though the aspect ratio is off by a very small amount undetectable and doesnt look stretched so no time will be given to fix this right now.
    - It also says about resolution being low on a few images again very easy fixes but like many of the other issues that google has found that don't necessarily take away from the user experience and lack of development time means that they will have to stay that way.
+  - SEO 100%
+   - Happy with this result.
+
+- google lighthouse gave a few scores in the end Desktop:
+
+ - Performance 84%-99% 
+   - This is due entirely to the images I have used I could've edited every single image and turned them into next gen-formats but I don't have that kind of time to dedicate to this project.
+   - Google also hints at using preloading to fix this issue but the icons are in the footer so if it takes an extra 0.3s to load it's not essential for the first 0.3 seconds of browsing so theres no reason to delay loading the main content of the page for that in my opinion.
+ - accessibily 100% 
+   - This is something I hope all my websites will always say
+ - best practices 87% 
+   - Google states the site has a vulnerabilty to cross-site scripting (XSS) attacks I currently do not know how to implement a fix for this will read into it for future sights
+   - Issue logged in a panel seems to be about the loading of the fontawesome.css file I wasn't sure how to implement a fix for this and this project has run out of development time it doesn't affect usability at all so no percieved issues there.
+   - The other issues are due to the images not being perfect aspect ratio. This is a simple fix for the future when I revisit the page for now though the aspect ratio is off by a very small amount undetectable and doesnt look stretched so no time will be given to fix this right now.
+   - It also says about resolution being low on a few images again very easy fixes but like many of the other issues that google has found that don't necessarily take away from the user experience and lack of development time means that they will have to stay that way.
+   - the reason for the score difference is due to a resolution issue. This is due to comic 9, to make the comic work on a mobile I had to make the image a little bigger than the origional by 25px. This is after resizing the image to work better on a mobile but I resized it to a midrange mobile so a mobile with a bigger screen stretches it by 25px relatively easy fix but not one I have time to make right now future versions of this site will avoid this issue.
   - SEO 100%
    - Happy with this result.
 
