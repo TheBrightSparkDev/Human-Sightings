@@ -160,6 +160,7 @@ The users are people that simply want to look at comics that have a deeper meani
  - Firstly the best-practices were low so took a closer look and spotted that I hadn't put noreferrer on the external links which can be dangerous in some situations as it allows the site I have linked to the opportunity to use the site I have created to steal user info. I understand this is extremely low risk and low probability of causing issues as firstly users cannot input info into the page I have created at any point and secondly it's extremely unlikely someone is going to specifically target such a low traffic page. Still though it's better to be safe than sorry.
  - I also spotted the SEO wasnt 100% due to not having meta tags so was an easy enough fix to implement.
  - I also saw that google said background.png came back with a 404 error had a look into my css and it was an absolute link instead of relative so corrected the issue
+ -  I also noticed font was coming back as error 400 so corrected code.
 
 - google lighthouse gave a few scores in the end:
 
