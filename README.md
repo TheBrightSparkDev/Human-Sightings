@@ -214,7 +214,10 @@ comic page doesnt look great on landscape mode on a mobile
 
 I was using github as the repository for the whole project so when I wanted to create a live page it was very easy to do.
 
-I did however have trouble with relative vs absolute links as I found I had accidentally used alot of absolute which meant the page was broken when uploaded. Was a simple fix!
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+  - In the GitHub repository, navigate to the Settings tab
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 - The site was deployed to GitHub pages. 
 
@@ -227,12 +230,13 @@ Below are the sources of all the media and content
 
 ### No parts of the code on this website are copy and pasted 
 
- - If I was struggling with anything I would simply go to wesbite that I have linked below and read up on how to use the specific code and then I would simply use the code correctly. 
+ - If I was struggling with anything I would simply go to website that I have linked below and read up on how to use the specific code and then I would simply use the code correctly. 
  - all websites used are linked below:
   - [Flexbox How To](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - [aria-label/labelledby](https://tink.uk/the-difference-between-aria-label-and-aria-labelledby/)
   - [Media Queries How To](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
   - [horizontal Scroll Menu](https://www.w3schools.com/howto/howto_css_menu_horizontal_scroll.asp)
+  - [google fonts](https://fonts.google.com/)
 
 ### Content 
 
