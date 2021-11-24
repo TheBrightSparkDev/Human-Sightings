@@ -238,6 +238,7 @@ Below are the sources of all the media and content
   - [Media Queries How To](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
   - [horizontal Scroll Menu](https://www.w3schools.com/howto/howto_css_menu_horizontal_scroll.asp)
   - [google fonts](https://fonts.google.com/)
+  - Code Institute mentor also sent me a link to a template of a README.md to create a structure I changed everything and kept structure apart from the steps to deploy as there isn't anything to change added a bit about making sure it was root as docs brings up an error message for me saying failed to build.
 
 ### Content 
 
